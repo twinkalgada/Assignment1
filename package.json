@@ -1,0 +1,19 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "CS 684 MERN Stack - Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twinkalgada/Assignment1.git"
+  },
+  "author": "Twinkal Kantilal Gada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twinkalgada/Assignment1/issues"
+  },
+  "homepage": "https://github.com/twinkalgada/Assignment1#readme"
+}
