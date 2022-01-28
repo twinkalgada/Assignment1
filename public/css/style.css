@@ -1,0 +1,28 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 350px;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.card img {
+  width: 100%;
+}
+
+p {
+  color: grey;
+  font-size: 18px;
+}
+
+a {
+  display: inline-block;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+  text-decoration: none;
+}
